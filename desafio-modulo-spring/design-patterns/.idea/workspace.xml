@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3211d7b8-ee51-4ccf-9c10-41902911d9ae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/desafio-modulo-spring.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dio/design/patterns/project/memento/EditorState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dio/design/patterns/project/memento/History.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dio/design/patterns/project/memento/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dio/design/patterns/project/memento/TextEditor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dio/design/patterns/project/state/BrushTool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dio/design/patterns/project/state/Canvas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dio/design/patterns/project/state/EraserTool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dio/design/patterns/project/state/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dio/design/patterns/project/state/SelectionTool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dio/design/patterns/project/state/Tool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../desafio-modulo-JAVA/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../desafio-modulo-JAVA/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../desafio-modulo-JAVA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../desafio-modulo-JAVA/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3211d7b8-ee51-4ccf-9c10-41902911d9ae" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
